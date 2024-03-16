@@ -25,7 +25,17 @@
                 <tr>
                     <td>1</td>
                     <td>Agung</td>
-                    <td>Gg.wp</td>
+                    <td>Bandung</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Daffa</td>
+                    <td>Bandung</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Rizal</td>
+                    <td>Bandung</td>
                 </tr>
             </tbody>
         </table>
